@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <img src="https://cdn.discordapp.com/attachments/1052395976662466660/1117558208693797055/gato_pc.gif" width="200" />
-    <h1 align="center">Hi 👋, I'm sabu.</h1>
+    <h1 align="center">Hi 👋, I'm Inu.</h1>
     <h3 align="center">learning more about c++</h3>
 </div>
 ---
